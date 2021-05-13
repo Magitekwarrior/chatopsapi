@@ -10,6 +10,7 @@ Tech Stack used:
 
 * ASP.NET (C#) Core 3.1
 * Serilog
+* Swagger
 
 ---
 
